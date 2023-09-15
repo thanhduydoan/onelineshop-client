@@ -1,32 +1,32 @@
-# Online Shop Client
+# Online store customers
 
-This is the client-side application for the Online Shop project. It provides a user interface for customers to browse and purchase products.
+This is the client-side application for the Online Store project. It provides a user interface for customers to browse and purchase products.
 
-## Features
+## Featured
 
-- User authentication: Customers can create an account, log in, and manage their profile.
-- Product catalog: Browse and search for products in various categories.
-- Shopping cart: Add products to the cart and proceed to checkout.
-- Order management: View and track order status, have emails sent to users when creating orders.
-- Payment integration: Secure payment processing using various payment gateways.
-- Responsive design: The application is optimized for both desktop and mobile devices.
-- 
+- User authentication: Customers can create accounts, log in and manage their profiles.
+- Product categories: Browse and search for products in many different categories.
+- Cart: Add products to cart and proceed to payment.
+- Order management: View and track order status, have emails sent to users when creating orders
+- Responsive design: The app is optimized for both desktop and mobile devices.
+- Admin: Administrator, can access and use all functions in Client and Admin, Create Admin page to manage data, have mechanism to upload photos to Server
+- Interaction: Livechat function between customers and consultants
 
-## Demo
+## Experiment
 
-Check out the live demo of the Online Shop Client: [https://onlineshop-clientapp.onrender.com/](https://onlineshop-clientapp.onrender.com/)
+Watch a live demo of the Online Store Client: [https://onlineshop-clientapp.onrender.com/](https://onlineshop-clientapp.onrender.com/)
 
-## Getting Started
+## Begin
 
-To run the client application locally, follow these steps:
+To run the client locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/thanhduydoan/onelineshop-client.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Contributing
+## Contribute
 
-Contributions are welcome! If you would like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! If you would like to contribute to the project, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
